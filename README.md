@@ -1,2 +1,2 @@
 # Water-Color-Sort-Puzzle
-Water Color Sort Puzzle using Unity
+Water Color Sorting  Puzzle using Unity
